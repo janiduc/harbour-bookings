@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Cannot book a room on the day the previous guest leaves",
+    "body": "Room 102 is booked from 10 to 12 November. Trying to book it from 12 to 14 November says \"Room already booked for those dates\", although the first guest checks out on the 12th. We are losing same-day turnovers on every room."
+  },
+  {
+    "title": "Deposit far too low on long stays",
+    "body": "A guest booked the suite for ten nights and was only asked for a deposit of 5200, which is 20% of one night. The deposit should be 20% of the whole stay."
+  },
+  {
+    "title": "Confirmation email shows the wrong check-out date",
+    "body": "Guests receive a confirmation email that says 2026-11-10 to 2026-11-10. The check-out date is always the same as the check-in date, so guests think they booked zero nights."
+  },
+  {
+    "title": "WEEKLY code does not work for a seven-night stay",
+    "body": "A guest booked exactly seven nights with the WEEKLY code and paid full price. Eight nights gets the 15% discount. Our website says the code works from seven nights."
+  },
+  {
+    "title": "Room filter returns nothing",
+    "body": "GET /api/rooms?type=Suite returns an empty list. Our booking widget sends the room type with a capital letter."
+  },
+  {
+    "title": "Overbooked again!!!",
+    "body": "Customers complaining. Fix it."
+  },
+  {
+    "title": "Send an SMS reminder the day before arrival",
+    "body": "Guests often forget their arrival time. A text message the day before arrival with the check-in time would reduce late arrivals."
+  },
+  {
+    "title": "Can guests change their booking dates online?",
+    "body": "A guest asked whether they can move their stay by one night themselves, or whether they have to call the front desk."
+  }
+]
